@@ -16,11 +16,11 @@ Product.init(
       autoIncrement: true
     },
     product_name: {
-      type: String,
+      type: DataTypes.STRING,
       allowNUll: false,
     },
     price: {
-      type: DECIMAL,
+      type: DataTypes.DECIMAL,
       allowNull: false,
       validate: {
         isNumeric: true
