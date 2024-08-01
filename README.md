@@ -45,4 +45,4 @@ run `npm start` to run code
 
 ## Links
 Repo: https://github.com/thernand09/13-E-Commerce-Back-End
-Video: 
+Video: https://github.com/thernand09/13-E-Commerce-Back-End/blob/main/assets/13-ECommerce-Back-End.gif
